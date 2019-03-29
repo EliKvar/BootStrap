@@ -184,7 +184,6 @@ border-radius: 25px;
    background-position: 50% 50%;
  }
 
- /* Background image from http://thepatternlibrary.com/ and http://lorempixel.com */
  .clip-text_one {
 	 background-image: url( "../Images/lp.jpg");
 
@@ -281,10 +280,12 @@ body{
 
 }
 .col-md-8{
-  padding-top: 30px;
+	
+  padding-top: 80px;
 }
 .col-md-4{
-  padding-top: 30px;
+  padding-top: 80px;
+	padding-bottom:80px;
 }
 .my-4{
 color: mediumturquoise;
@@ -315,3 +316,57 @@ text-shadow: 3px 3px darkslategrey;
 .l6{
   color:beige;
 }
+.l7{
+  color:firebrick;
+}
+.my-3{
+	color: mediumturquoise;
+text-shadow: 3px 3px darkslategrey;
+}
+.download {
+	text-shadow: 3px 3px darkslategrey;
+	color: palegoldenrod;
+	
+}
+.cado {
+	width: 770px;
+}
+.py-5  {
+	padding-top: 30px;
+}
+
+.game-spacing {
+   
+    top: 50%;
+    left: 50%;
+    margin-left: -500px;
+    margin-top: -100px;
+position:relative;
+	width:1000px; 
+	height:600px;
+}
+.game-spacing1 {
+   
+    top: 50%;
+    left: 50%;
+    margin-left: -380px;
+    margin-top: -100px;
+position:relative;
+	width:750px; 
+	height:600px;
+}
+
+.slide1 {
+	background-image: url("../Images/webdesign1.png")
+}
+.slide2 {
+	background-image: url("../Images/programming1.png")
+}
+.slide3 {
+	background-image: url("../Images/gamedesign1.png")
+}
+
+
+
+
+

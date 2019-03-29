@@ -31,11 +31,11 @@
 <file name="blog-home-1.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050480512" remote="131979496950000000" Dst="2" />
 <file name="blog-home-2.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050480512" remote="131979496950000000" Dst="2" />
 <file name="blog-post.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050480512" remote="131979496950000000" Dst="2" />
-<file name="contact.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050490495" remote="131979496950000000" Dst="2" />
+<file name="contact.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979559286641281" remote="131979563920000000" Dst="2" />
 <file name="faq.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050500469" remote="131979496970000000" Dst="2" />
 <file name="full-width.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050500469" remote="131979496970000000" Dst="2" />
 <file name="gulpfile.js" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050510445" remote="131979496970000000" Dst="2" />
-<file name="index.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050510445" remote="131979497090000000" Dst="2" />
+<file name="index.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979555897246782" remote="131979564130000000" Dst="2" />
 <file name="LICENSE" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050460584" remote="131979497110000000" Dst="2" />
 <file name="package-lock.json" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050540362" remote="131979497130000000" Dst="2" />
 <file name="package.json" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050550336" remote="131979497130000000" Dst="2" />
@@ -43,7 +43,7 @@
 <file name="portfolio-2-col.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050560307" remote="131979497140000000" Dst="2" />
 <file name="portfolio-3-col.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050560307" remote="131979497140000000" Dst="2" />
 <file name="portfolio-4-col.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050560307" remote="131979497140000000" Dst="2" />
-<file name="portfolio-item.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050699933" remote="131979497140000000" Dst="2" />
+<file name="portfolio-item.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979557932659001" remote="131979564180000000" Dst="2" />
 <file name="pricing.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050699933" remote="131979497140000000" Dst="2" />
 <file name="README.md" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050470546" remote="131979497150000000" Dst="2" />
 <file name="services.html" server="3.17.182.23//var/www/html/bootstrapweb/" local="131979396050709909" remote="131979497150000000" Dst="2" />
